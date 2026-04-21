@@ -1,5 +1,6 @@
 # 💫 About Me:
  I’m currently working on:<br>E-Commerce App, Crypto Price Tracker,
+ 
  3D Garage Website, and Country Explorer<br><br>🌱 I’m always learning:<br>React,next.js, Node.js, Tailwind, Three.js, Recharts, API integration<br><br>💬 Ask me about:<br>Frontend, React, Styling, Canvas, 3D, APIs, MySQL, PHP, Responsive Design<br><br><br><br>⚡ Fun fact:
   I love turning complex ideas into clean and visual user experiences!<br><br>🛠️ Tech Stack<br>💻 Languages & Frameworks<br>HTML5, CSS3, JavaScript (ES6+)<br><br>React, Vite, Node.js, Express, PHP<br><br>🎨 Styling & Design<br>Tailwind CSS, Modular CSS, SCSS<br><br>Three.js (3D), Canvas API, GSAP, Framer Motion<br><br>🗃️ Databases<br>MySQL, MongoDB<br><br>🛠️ Tools<br>Git, GitHub, VS Code, Postman, Figma,canva,draw io
 
