@@ -4,6 +4,7 @@
   I love turning complex ideas into clean and visual user experiences!<br><br>🛠️ Tech Stack<br>💻 Languages & Frameworks<br>HTML5, CSS3, JavaScript (ES6+)<br><br>React, Vite, Node.js, Express, PHP<br><br>🎨 Styling & Design<br>Tailwind CSS, Modular CSS, SCSS<br><br>Three.js (3D), Canvas API, GSAP, Framer Motion<br><br>🗃️ Databases<br>MySQL, MongoDB<br><br>🛠️ Tools<br>Git, GitHub, VS Code, Postman, Figma,canva,draw io
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayleamlak-tesfaye-801186340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haylebest56@gmail.com) 
 
